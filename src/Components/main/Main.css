@@ -1,0 +1,11 @@
+.img-fondo-home {
+    margin: 0;
+    padding: 0;
+    height: 100vp;
+    width: 100vp;
+}
+
+.img-fondo-home .imghome {
+    max-width: 100%;
+    max-height: 100%;
+}
